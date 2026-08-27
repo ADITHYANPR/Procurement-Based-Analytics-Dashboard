@@ -179,12 +179,12 @@ Procurement-Analytics-Dashboard/
 
 ## 👤 Author
 
-**Naveen Koyyala**
+**Adithyan P R**
 - **Target Roles:** Data Analyst, BI Analyst, MIS Analyst, Reporting Analyst, Power BI Analyst
-- **Location:** Hyderabad, India
-- **LinkedIn:** https://www.linkedin.com/in/naveen-koyyala/
-- **Email:** koyyalanaveen566@gmail.com
-- **GitHub:** https://github.com/Koyyalanaveen
+- **Location:** Keralam, India
+- **LinkedIn:** www.linkedin.com/in/adithyan-p-r-36b79a250
+- **Email:** adithyanprupasana@gmail.com
+- **GitHub:** https://github.com/ADITHYANPR
 
 ---
 
